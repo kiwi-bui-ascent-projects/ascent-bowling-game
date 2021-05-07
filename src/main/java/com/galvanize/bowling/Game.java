@@ -1,7 +1,5 @@
 package com.galvanize.bowling;
 
-import java.util.Arrays;
-
 public class Game {
     int[] scores;
     int index;
